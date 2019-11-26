@@ -1,0 +1,700 @@
+Got 44 messages for provider .NET Runtime (1) in C:\Windows\System32\mscoree.dll
+Got 44 messages for provider .NET Runtime (1) in C:\Windows\SysWow64\mscoree.dll
+Got 44 messages for provider .NET Runtime Optimization Service (2) in C:\Windows\System32\mscoree.dll
+Got 44 messages for provider .NET Runtime Optimization Service (2) in C:\Windows\SysWow64\mscoree.dll
+Got 6 messages for provider Application Error (3) in C:\Windows\System32\en-US\wer.dll.mui
+Got 4 messages for provider Application Hang (4) in C:\Windows\System32\en-US\wersvc.dll.mui
+Got 24 messages for provider Application Management (5) in C:\Windows\System32\en-US\appmgmts.dll.mui
+Got 24 messages for provider Application Management (5) in C:\Windows\SysWow64\en-US\appmgmts.dll.mui
+Got 7 messages for provider Application-Addon-Event-Provider (6) in C:\Windows\system32\en-US\ieframe.dll.mui
+Got 7 messages for provider Application-Addon-Event-Provider (6) in C:\Windows\SysWow64\en-US\ieframe.dll.mui
+Got 92 messages for provider CardSpace 4.0.0.0 (7) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\en-US\ServiceModelEvents.dll.mui
+Got 35 messages for provider CEPSvc (8) in C:\Windows\system32\en-US\certadm.dll.mui
+Got 35 messages for provider CEPSvc (8) in C:\Windows\SysWow64\en-US\certadm.dll.mui
+Got 35 messages for provider CESSvc (9) in C:\Windows\system32\en-US\certadm.dll.mui
+Got 35 messages for provider CESSvc (9) in C:\Windows\SysWow64\en-US\certadm.dll.mui
+Got 1939 messages for provider Chkdsk (10) in C:\Windows\System32\en-US\ulib.dll.mui
+Got 3 messages for provider DeliveryOptimization (11) in C:\Windows\system32\en-US\dosvc.dll.mui
+Got 9 messages for provider Desktop Window Manager (12) in C:\Windows\system32\en-US\dwm.exe.mui
+Got 11 messages for provider DiskQuota (13) in C:\Windows\System32\en-US\dskquota.dll.mui
+Got 11 messages for provider DiskQuota (13) in C:\Windows\SysWow64\en-US\dskquota.dll.mui
+Got 1 messages for provider Dwminit (14) in C:\Windows\system32\en-US\dwminit.dll.mui
+Got 6 messages for provider Error Instrument (15) in C:\Windows\system32\en-US\user32.dll.mui
+Got 6 messages for provider Error Instrument (15) in C:\Windows\SysWow64\en-US\user32.dll.mui
+Got 389 messages for provider ESENT (16) in C:\Windows\system32\en-US\esent.dll.mui
+Got 389 messages for provider ESENT (16) in C:\Windows\SysWow64\en-US\esent.dll.mui
+Got 29 messages for provider Folder Redirection (17) in C:\Windows\System32\en-US\fdeploy.dll.mui
+Got 17 messages for provider FssProv (18) in C:\Windows\System32\en-US\fssProv.dll.mui
+Got 1001 messages for provider GCEMetadataScripts (19) in C:\Windows\System32\en-US\EventCreate.exe.mui
+Got 1001 messages for provider GCEWindowsAgent (20) in C:\Windows\System32\en-US\EventCreate.exe.mui
+Got 1001 messages for provider GooGet (21) in C:\Windows\System32\en-US\EventCreate.exe.mui
+Got 31 messages for provider Group Policy Applications (22) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Applications (22) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Client (23) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Client (23) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Data Sources (24) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Data Sources (24) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Device Settings (25) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Device Settings (25) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Drive Maps (26) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Drive Maps (26) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Environment (27) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Environment (27) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Files (28) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Files (28) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Folder Options (29) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Folder Options (29) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Folders (30) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Folders (30) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Ini Files (31) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Ini Files (31) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Internet Settings (32) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Internet Settings (32) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Local Users and Groups (33) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Local Users and Groups (33) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Mail Profiles (34) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Mail Profiles (34) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Network Options (35) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Network Options (35) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Network Shares (36) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Network Shares (36) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Power Options (37) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Power Options (37) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Printers (38) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Printers (38) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Regional Options (39) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Regional Options (39) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Registry (40) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Registry (40) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Scheduled Tasks (41) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Scheduled Tasks (41) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Services (42) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Services (42) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Shortcuts (43) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Shortcuts (43) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Standard Edition (44) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Standard Edition (44) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Start Menu Settings (45) in C:\Windows\System32\en-US\gpprefcl.dll.mui
+Got 31 messages for provider Group Policy Start Menu Settings (45) in C:\Windows\SysWow64\en-US\gpprefcl.dll.mui
+Got 2 messages for provider ipmiprv (48) in C:\Windows\system32\wbem\en-US\ipmiprr.dll.mui
+Got 2 messages for provider ipmiprv (48) in C:\Windows\SysWow64\wbem\en-US\ipmiprr.dll.mui
+Got 5 messages for provider Microsoft-Windows-ApplicationExperienceInfrastructure (49) in C:\Windows\system32\en-US\apphelp.dll.mui
+Got 5 messages for provider Microsoft-Windows-ApplicationExperienceInfrastructure (49) in C:\Windows\SysWow64\en-US\apphelp.dll.mui
+Got 659 messages for provider Microsoft-Windows-AppModel-Runtime (50) in C:\Windows\system32\en-US\Microsoft-Windows-System-Events.dll.mui
+Got 659 messages for provider Microsoft-Windows-AppModel-State (51) in C:\Windows\system32\en-US\Microsoft-Windows-System-Events.dll.mui
+Got 130 messages for provider Microsoft-Windows-Audio (52) in C:\Windows\System32\en-US\audioses.dll.mui
+Got 659 messages for provider Microsoft-Windows-Audit-CVE (53) in C:\Windows\system32\en-US\Microsoft-Windows-System-Events.dll.mui
+Got 5 messages for provider Microsoft-Windows-AxInstallService (54) in C:\Windows\System32\en-US\AxInstSv.dll.mui
+Got 145 messages for provider Microsoft-Windows-Backup (55) in C:\Windows\system32\en-US\BlbEvents.dll.mui
+Got 10 messages for provider Microsoft-Windows-BestPractices (56) in C:\Windows\system32\en-US\BPAInst.dll.mui
+Got 70 messages for provider Microsoft-Windows-CAPI2 (57) in C:\Windows\System32\en-US\crypt32.dll.mui
+Got 10 messages for provider Microsoft-Windows-CertificateServicesClient (58) in C:\Windows\system32\en-US\dimsjob.dll.mui
+Got 8 messages for provider Microsoft-Windows-CertificateServicesClient-AutoEnrollment (59) in C:\Windows\system32\en-US\pautoenr.dll.mui
+Got 90 messages for provider Microsoft-Windows-CertificateServicesClient-CertEnroll (60) in C:\Windows\system32\en-US\certenroll.dll.mui
+Got 16 messages for provider Microsoft-Windows-CertificateServicesClient-CredentialRoaming (61) in C:\Windows\system32\en-US\dimsroam.dll.mui
+Got 1 messages for provider Microsoft-Windows-CertificationAuthorityClient-CertCli (62) in C:\Windows\system32\en-US\certcli.dll.mui
+Got 56 messages for provider Microsoft-Windows-COMRuntime (63) in C:\Windows\system32\en-US\combase.dll.mui
+Got 57 messages for provider Microsoft-Windows-Defrag (64) in C:\Windows\system32\en-US\defragsvc.dll.mui
+Got 3 messages for provider Microsoft-Windows-DeliveryOptimization (65) in C:\Windows\System32\en-US\dosvc.dll.mui
+Got 3 messages for provider Microsoft-Windows-DirectoryServices-Deployment (66) in C:\Windows\system32\en-US\DsDeployRes.dll.mui
+Got 202 messages for provider Microsoft-Windows-DirectShow-Core (67) in C:\Windows\system32\en-US\quartz.dll.mui
+Got 17 messages for provider Microsoft-Windows-DirectShow-KernelSupport (68) in C:\Windows\System32\ksproxy.ax
+Got 17 messages for provider Microsoft-Windows-DirectShow-KernelSupport (68) in C:\Windows\System32\en-US\ksproxy.ax.mui
+Got 17 messages for provider Microsoft-Windows-DirectShow-KernelSupport (68) in C:\Windows\SysWow64\ksproxy.ax
+Got 77 messages for provider Microsoft-Windows-EapHost (69) in C:\Windows\system32\en-US\eapsvc.dll.mui
+Got 145 messages for provider Microsoft-Windows-EFS (70) in C:\Windows\system32\en-US\efscore.dll.mui
+Got 9 messages for provider Microsoft-Windows-EventCollector (71) in C:\Windows\system32\en-US\wecsvc.dll.mui
+Got 9 messages for provider Microsoft-Windows-EventCollector (71) in C:\Windows\SysWow64\en-US\wecsvc.dll.mui
+Got 3 messages for provider Microsoft-Windows-FederationServices-Deployment (72) in C:\Windows\system32\en-US\FSDeployRes.dll.mui
+Got 65 messages for provider Microsoft-Windows-FileServices-ServerManager-EventProvider (73) in C:\Windows\system32\en-US\FssmInst.dll.mui
+Got 29 messages for provider Microsoft-Windows-Folder Redirection (74) in C:\Windows\System32\en-US\fdeploy.dll.mui
+Got 358 messages for provider Microsoft-Windows-Immersive-Shell (75) in C:\Windows\system32\en-US\twinui.appcore.dll.mui
+Got 358 messages for provider Microsoft-Windows-Immersive-Shell (75) in C:\Windows\SysWow64\en-US\twinui.appcore.dll.mui
+Got 28 messages for provider Microsoft-Windows-LoadPerf (76) in C:\Windows\system32\en-US\loadperf.dll.mui
+Got 129 messages for provider Microsoft-Windows-Management-UI (77) in C:\Windows\system32\en-US\MuxInst.dll.mui
+Got 74 messages for provider Microsoft-Windows-PerfCtrs (78) in C:\Windows\system32\en-US\perfctrs.dll.mui
+Got 57 messages for provider Microsoft-Windows-Perflib (79) in C:\Windows\system32\en-US\prflbmsg.dll.mui
+Got 9 messages for provider Microsoft-Windows-PerfNet (80) in C:\Windows\system32\en-US\perfnet.dll.mui
+Got 20 messages for provider Microsoft-Windows-PerfOS (81) in C:\Windows\system32\en-US\perfos.dll.mui
+Got 9 messages for provider Microsoft-Windows-PerfProc (82) in C:\Windows\system32\en-US\perfproc.dll.mui
+Got 8 messages for provider Microsoft-Windows-propsys (83) in C:\Windows\system32\en-US\propsys.dll.mui
+Got 8 messages for provider Microsoft-Windows-propsys (83) in C:\Windows\SysWow64\en-US\propsys.dll.mui
+Got 262 messages for provider Microsoft-Windows-Rdms-UI (84) in C:\Windows\system32\en-US\RdmsInst.dll.mui
+Got 262 messages for provider Microsoft-Windows-Rdms-UI (84) in C:\Windows\SysWow64\en-US\RdmsInst.dll.mui
+Got 37 messages for provider Microsoft-Windows-RemoteApp and Desktop Connections (85) in C:\Windows\system32\en-US\TSWorkspace.dll.mui
+Got 22 messages for provider Microsoft-Windows-RestartManager (86) in C:\Windows\System32\en-US\RstrtMgr.dll.mui
+Got 29 messages for provider Microsoft-Windows-RPC-Events (87) in C:\Windows\system32\en-US\rpcrt4.dll.mui
+Got 29 messages for provider Microsoft-Windows-RPC-Events (87) in C:\Windows\SysWow64\en-US\rpcrt4.dll.mui
+Got 9 messages for provider Microsoft-Windows-Security-EnterpriseData-FileRevocationManager (88) in C:\Windows\system32\efswrt.dll
+Got 9 messages for provider Microsoft-Windows-Security-EnterpriseData-FileRevocationManager (88) in C:\Windows\SysWow64\efswrt.dll
+Got 122 messages for provider Microsoft-Windows-Security-SPP (89) in C:\Windows\system32\en-US\sppsvc.exe.mui
+Got 358 messages for provider Microsoft-Windows-ServerManager-MultiMachine (90) in C:\Windows\system32\en-US\SrvMgrInst.dll.mui
+Got 659 messages for provider Microsoft-Windows-SoftwareRestrictionPolicies (91) in C:\Windows\system32\en-US\Microsoft-Windows-System-Events.dll.mui
+Got 84 messages for provider Microsoft-Windows-Spell-Checking (92) in C:\Windows\System32\en-US\MsSpellCheckingFacility.dll.mui
+Got 84 messages for provider Microsoft-Windows-SpellChecker (93) in C:\Windows\System32\en-US\MsSpellCheckingFacility.dll.mui
+Got 8 messages for provider Microsoft-Windows-Spellchecking-Host (94) in C:\Windows\System32\MsSpellCheckingHost.exe
+Got 113 messages for provider Microsoft-Windows-TerminalServices-ClientActiveXCore (95) in C:\Windows\system32\en-US\mstscax.dll.mui
+Got 7 messages for provider Microsoft-Windows-User Profiles General (96) in C:\Windows\System32\en-US\userenv.dll.mui
+Got 84 messages for provider Microsoft-Windows-User Profiles Service (97) in C:\Windows\System32\en-US\profsvc.dll.mui
+Got 659 messages for provider Microsoft-Windows-User-Loader (98) in C:\Windows\system32\en-US\Microsoft-Windows-System-Events.dll.mui
+Got 1 messages for provider Microsoft-Windows-Video-For-Windows (99) in C:\Windows\system32\en-US\mciavi32.dll.mui
+Got 1 messages for provider Microsoft-Windows-Video-For-Windows (99) in C:\Windows\SysWow64\en-US\mciavi32.dll.mui
+Got 50 messages for provider Microsoft-Windows-WindowsSystemAssessmentTool (100) in C:\Windows\system32\WINSAT.EXE
+Got 50 messages for provider Microsoft-Windows-WindowsSystemAssessmentTool (100) in C:\Windows\system32\en-US\WINSAT.EXE.mui
+Got 27 messages for provider Microsoft-Windows-Winsrv (101) in C:\Windows\system32\en-US\winsrv.dll.mui
+Got 27 messages for provider Microsoft-Windows-Winsrv (101) in C:\Windows\SysWow64\en-US\winsrv.dll.mui
+Got 86 messages for provider Microsoft-Windows-WMI (102) in C:\Windows\system32\wbem\en-US\WinMgmtR.dll.mui
+Got 15 messages for provider Microsoft-Windows-XWizards (103) in C:\Windows\system32\en-US\xwizards.dll.mui
+Got 15 messages for provider Microsoft-Windows-XWizards (103) in C:\Windows\SysWow64\en-US\xwizards.dll.mui
+Got 92 messages for provider Microsoft.Transactions.Bridge 4.0.0.0 (104) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\en-US\ServiceModelEvents.dll.mui
+Got 432 messages for provider MsiInstaller (105) in C:\Windows\System32\en-US\msimsg.dll.mui
+Got 1001 messages for provider OSConfigAgent (106) in C:\Windows\System32\en-US\EventCreate.exe.mui
+Got 84 messages for provider Profsvc (107) in C:\Windows\System32\en-US\profsvc.dll.mui
+Got 542 messages for provider RasClient (108) in C:\Windows\System32\en-US\mprmsg.dll.mui
+Got 27 messages for provider SceCli (109) in C:\Windows\System32\en-US\scecli.dll.mui
+Got 27 messages for provider SceSrv (110) in C:\Windows\System32\en-US\scesrv.dll.mui
+Got 92 messages for provider ServiceModel Audit 4.0.0.0 (111) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\en-US\ServiceModelEvents.dll.mui
+Got 84 messages for provider SideBySide (112) in C:\Windows\System32\en-US\sxs.dll.mui
+Got 84 messages for provider SideBySide (112) in C:\Windows\SysWow64\en-US\sxs.dll.mui
+Got 18 messages for provider Software Installation (113) in C:\Windows\System32\en-US\appmgr.dll.mui
+Got 18 messages for provider Software Installation (113) in C:\Windows\SysWow64\en-US\appmgr.dll.mui
+Got 122 messages for provider Software Protection Platform Service (114) in C:\Windows\system32\en-US\sppsvc.exe.mui
+Got 2 messages for provider SpeechRuntime (115) in C:\Windows\System32\Speech_OneCore\Common\sapi_onecore.dll
+Got 2 messages for provider SpeechRuntime (115) in C:\Windows\SysWow64\Speech_OneCore\Common\sapi_onecore.dll
+Got 287 messages for provider SrmSvc (116) in C:\Windows\System32\en-US\srm.dll.mui
+Got 287 messages for provider SrmSvc (116) in C:\Windows\SysWow64\en-US\srm.dll.mui
+Got 92 messages for provider System.IdentityModel 4.0.0.0 (117) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\en-US\ServiceModelEvents.dll.mui
+Got 92 messages for provider System.IO.Log 4.0.0.0 (118) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\en-US\ServiceModelEvents.dll.mui
+Got 92 messages for provider System.Runtime.Serialization 4.0.0.0 (119) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\en-US\ServiceModelEvents.dll.mui
+Got 92 messages for provider System.ServiceModel 4.0.0.0 (120) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\en-US\ServiceModelEvents.dll.mui
+Got 12 messages for provider usbperf (121) in C:\Windows\system32\en-US\usbperf.dll.mui
+Got 7 messages for provider Userenv (122) in C:\Windows\System32\en-US\userenv.dll.mui
+Got 1 messages for provider VBRuntime (123) in C:\Windows\SysWOW64\msvbvm60.dll
+Got 198 messages for provider VSS (124) in C:\Windows\System32\en-US\VSSVC.EXE.mui
+Got 4 messages for provider WerSvc (125) in C:\Windows\System32\en-US\wersvc.dll.mui
+Got 6 messages for provider Windows Error Reporting (126) in C:\Windows\System32\en-US\wer.dll.mui
+Got 905 messages for provider Windows Search Service (127) in C:\Windows\system32\en-US\tquery.dll.mui
+Got 12 messages for provider Windows Search Service Profile Notification (128) in C:\Windows\system32\en-US\wsepno.dll.mui
+Got 17 messages for provider Wininit (129) in C:\Windows\System32\en-US\wininit.exe.mui
+Got 33 messages for provider Winlogon (130) in C:\Windows\System32\en-US\winlogon.exe.mui
+Got 33 messages for provider Wlclntfy (131) in C:\Windows\System32\en-US\winlogon.exe.mui
+Got 65536 messages for provider WMI.NET Provider Extension (132) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\EventLogMessages.dll
+Got 2 messages for provider Wow64 Emulation Layer (133) in C:\Windows\System32\en-US\ntvdm64.dll.mui
+Got 2 messages for provider Wow64 Emulation Layer (133) in C:\Windows\SysWow64\en-US\ntvdm64.dll.mui
+Got 9 messages for provider WSH (134) in C:\Windows\System32\wshext.dll
+Got 9 messages for provider WSH (134) in C:\Windows\System32\en-US\wshext.dll.mui
+Got 9 messages for provider WSH (134) in C:\Windows\SysWow64\wshext.dll
+Got 9 messages for provider WSH (134) in C:\Windows\SysWow64\en-US\wshext.dll.mui
+Got 3 messages for provider Microsoft-Windows-WSMAN-SEL_LogRecord (135) in C:\Windows\system32\en-US\WsmSelrr.dll.mui
+Got 3 messages for provider Microsoft-Windows-WSMAN-SEL_LogRecord (135) in C:\Windows\SysWow64\en-US\WsmSelrr.dll.mui
+Got 122 messages for provider KmsRequests (136) in C:\Windows\system32\en-US\sppsvc.exe.mui
+Got 47 messages for provider Microsoft-Windows-Eventlog (137) in C:\Windows\System32\en-US\wevtsvc.dll.mui
+Got 512 messages for provider Microsoft-Windows-Security-Auditing (138) in C:\Windows\system32\adtschema.dll
+Got 512 messages for provider Microsoft-Windows-Security-Auditing (138) in C:\Windows\system32\en-US\adtschema.dll.mui
+Got 328 messages for provider Security (139) in C:\Windows\System32\MsAuditE.dll
+Got 328 messages for provider Security (139) in C:\Windows\System32\en-US\MsAuditE.dll.mui
+Got 328 messages for provider Security (139) in C:\Windows\SysWow64\MsAuditE.dll
+Got 92 messages for provider ServiceModel 4.0.0.0 (140) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\en-US\ServiceModelEvents.dll.mui
+Got 198 messages for provider VSSAudit (141) in C:\Windows\System32\en-US\VSSVC.EXE.mui
+Got 152 messages for provider 3ware (142) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider 3ware (142) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider ACPI (143) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider ACPI (143) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 16 messages for provider ACPI (143) in C:\Windows\System32\Drivers\acpi.sys
+Got 16 messages for provider ACPI (143) in C:\Windows\System32\Drivers\en-US\acpi.sys.mui
+Got 152 messages for provider ADP80XX (144) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider ADP80XX (144) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 608 messages for provider AFD (145) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 152 messages for provider AmdK8 (146) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider AmdK8 (146) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider AmdPPM (147) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider AmdPPM (147) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider amdsata (148) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider amdsata (148) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider amdsbs (149) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider amdsbs (149) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider amdxata (150) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider amdxata (150) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 24 messages for provider Application Management Group Policy (151) in C:\Windows\System32\en-US\appmgmts.dll.mui
+Got 24 messages for provider Application Management Group Policy (151) in C:\Windows\SysWow64\en-US\appmgmts.dll.mui
+Got 27 messages for provider Application Popup (152) in C:\Windows\system32\en-US\winsrv.dll.mui
+Got 27 messages for provider Application Popup (152) in C:\Windows\SysWow64\en-US\winsrv.dll.mui
+Got 79 messages for provider AppReadiness (153) in C:\Windows\system32\en-US\AppReadiness.dll.mui
+Got 152 messages for provider arcsas (154) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider arcsas (154) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 542 messages for provider AsyncMac (155) in C:\Windows\System32\en-US\mprmsg.dll.mui
+Got 152 messages for provider atapi (156) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider atapi (156) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider b06bdrv (157) in C:\Windows\System32\en-US\iologmsg.dll.mui
+Got 152 messages for provider b06bdrv (157) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 30 messages for provider b06bdrv (157) in C:\Windows\System32\drivers\bxvbda.sys
+Got 152 messages for provider BALLOON (158) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BALLOON (158) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BasicRender (159) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BasicRender (159) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider beep (160) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider beep (160) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 89 messages for provider bfadfcoei (161) in C:\Windows\System32\drivers\bfadfcoei.sys
+Got 152 messages for provider bfadfcoei (161) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider bfadfcoei (161) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 89 messages for provider bfadi (162) in C:\Windows\System32\drivers\bfadi.sys
+Got 152 messages for provider bfadi (162) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider bfadi (162) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BthEnum (163) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BthEnum (163) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 1 messages for provider BthEnum (163) in C:\Windows\System32\Drivers\BthEnum.sys
+Got 1 messages for provider BthEnum (163) in C:\Windows\System32\Drivers\en-US\BthEnum.sys.mui
+Got 152 messages for provider BthLEEnum (164) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BthLEEnum (164) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BthMini (165) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BthMini (165) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 91 messages for provider BthMini (165) in C:\Windows\System32\Drivers\Bthport.sys
+Got 91 messages for provider BthMini (165) in C:\Windows\System32\Drivers\en-US\Bthport.sys.mui
+Got 4 messages for provider BthMini (165) in C:\Windows\System32\Drivers\BthMini.sys
+Got 152 messages for provider BTHPORT (166) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BTHPORT (166) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 91 messages for provider BTHPORT (166) in C:\Windows\System32\Drivers\Bthport.sys
+Got 91 messages for provider BTHPORT (166) in C:\Windows\System32\Drivers\en-US\Bthport.sys.mui
+Got 152 messages for provider BTHUSB (167) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider BTHUSB (167) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 91 messages for provider BTHUSB (167) in C:\Windows\System32\Drivers\Bthport.sys
+Got 91 messages for provider BTHUSB (167) in C:\Windows\System32\Drivers\en-US\Bthport.sys.mui
+Got 6 messages for provider BTHUSB (167) in C:\Windows\System32\Drivers\BthUsb.sys
+Got 6 messages for provider BTHUSB (167) in C:\Windows\System32\Drivers\en-US\BthUsb.sys.mui
+Got 152 messages for provider bxfcoe (168) in C:\Windows\System32\en-US\iologmsg.dll.mui
+Got 152 messages for provider bxfcoe (168) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 31 messages for provider bxfcoe (168) in C:\Windows\System32\drivers\bxfcoe.sys
+Got 6 messages for provider bxois (169) in C:\Windows\System32\drivers\bxois.sys
+Got 72 messages for provider bxois (169) in C:\Windows\System32\iscsilog.dll
+Got 72 messages for provider bxois (169) in C:\Windows\System32\en-US\iscsilog.dll.mui
+Got 152 messages for provider bxois (169) in C:\Windows\System32\en-US\iologmsg.dll.mui
+Got 152 messages for provider bxois (169) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 152 messages for provider cdrom (170) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider cdrom (170) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider cht4iscsi (171) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider cht4iscsi (171) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 4 messages for provider cht4iscsi (171) in C:\Windows\System32\drivers\cht4sx64.sys
+Got 608 messages for provider cht4vbd (172) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 4 messages for provider cht4vbd (172) in C:\Windows\System32\drivers\cht4vx64.sys
+Got 248 messages for provider Dhcp (173) in C:\Windows\System32\en-US\dhcpcore.dll.mui
+Got 191 messages for provider Dhcpv6 (174) in C:\Windows\system32\en-US\dhcpcore6.dll.mui
+Got 152 messages for provider disk (175) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider disk (175) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 20 messages for provider Display (176) in C:\Windows\System32\en-US\dxgwdi.dll.mui
+Got 608 messages for provider Dnsapi (177) in C:\Windows\system32\en-US\netevent.dll.mui
+Got 608 messages for provider Dnscache (178) in C:\Windows\system32\en-US\netevent.dll.mui
+Got 58 messages for provider ebdrv (179) in C:\Windows\System32\drivers\evbda.sys
+Got 152 messages for provider ebdrv (179) in C:\Windows\System32\en-US\iologmsg.dll.mui
+Got 152 messages for provider ebdrv (179) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 152 messages for provider elxfcoe (180) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider elxfcoe (180) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider elxstor (181) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider elxstor (181) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 608 messages for provider eventlog (182) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 152 messages for provider exFAT (183) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider exFAT (183) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 10 messages for provider FltMgr (184) in C:\Windows\System32\drivers\fltmgr.sys
+Got 10 messages for provider FltMgr (184) in C:\Windows\System32\drivers\en-US\fltmgr.sys.mui
+Got 152 messages for provider FltMgr (184) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider FltMgr (184) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider HpSAMD (185) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider HpSAMD (185) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider i8042prt (186) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider i8042prt (186) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 49 messages for provider i8042prt (186) in C:\Windows\System32\drivers\i8042prt.sys
+Got 49 messages for provider i8042prt (186) in C:\Windows\System32\drivers\en-US\i8042prt.sys.mui
+Got 152 messages for provider iaStorAVC (187) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider iaStorAVC (187) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 12 messages for provider iaStorAVC (187) in C:\Windows\System32\drivers\iaStorAVC.sys
+Got 152 messages for provider iaStorV (188) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider iaStorV (188) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 7 messages for provider ibbus (189) in C:\Windows\System32\drivers\ibbus.sys
+Got 152 messages for provider ibbus (189) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider ibbus (189) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider Intel-iaLPSS-GPIO (190) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider Intel-iaLPSS-GPIO (190) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 28 messages for provider Intel-iaLPSS-GPIO (190) in C:\Windows\system32\drivers\iaLPSSi_GPIO.sys
+Got 152 messages for provider Intel-iaLPSS-I2C (191) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider Intel-iaLPSS-I2C (191) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 43 messages for provider Intel-iaLPSS-I2C (191) in C:\Windows\system32\drivers\iaLPSSi_I2C.sys
+Got 152 messages for provider intelppm (192) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider intelppm (192) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 23 messages for provider IPMGM (193) in C:\Windows\System32\en-US\rtm.dll.mui
+Got 5 messages for provider IPMIDRV (194) in C:\Windows\System32\drivers\ipmidrv.sys
+Got 5 messages for provider IPMIDRV (194) in C:\Windows\System32\drivers\en-US\ipmidrv.sys.mui
+Got 542 messages for provider IPRouterManager (195) in C:\Windows\System32\en-US\mprmsg.dll.mui
+Got 152 messages for provider isapnp (196) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider isapnp (196) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 12 messages for provider isapnp (196) in C:\Windows\System32\drivers\isapnp.sys
+Got 12 messages for provider isapnp (196) in C:\Windows\System32\drivers\en-US\isapnp.sys.mui
+Got 72 messages for provider iScsiPrt (197) in C:\Windows\System32\iscsilog.dll
+Got 72 messages for provider iScsiPrt (197) in C:\Windows\System32\en-US\iscsilog.dll.mui
+Got 152 messages for provider ItSas35i (198) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider ItSas35i (198) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider kbdclass (199) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider kbdclass (199) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 15 messages for provider kbdclass (199) in C:\Windows\System32\drivers\kbdclass.sys
+Got 15 messages for provider kbdclass (199) in C:\Windows\System32\drivers\en-US\kbdclass.sys.mui
+Got 152 messages for provider kbdhid (200) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider kbdhid (200) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 2 messages for provider kbdhid (200) in C:\Windows\System32\drivers\kbdhid.sys
+Got 2 messages for provider kbdhid (200) in C:\Windows\System32\drivers\en-US\kbdhid.sys.mui
+Got 608 messages for provider kdnic (201) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 53 messages for provider Kerberos (202) in C:\Windows\System32\en-US\kerberos.dll.mui
+Got 162 messages for provider Lfsvc (203) in C:\Windows\System32\en-US\locationframework.dll.mui
+Got 162 messages for provider Lfsvc (203) in C:\Windows\SysWow64\en-US\locationframework.dll.mui
+Got 608 messages for provider lltdio (204) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 608 messages for provider LmHosts (205) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 165 messages for provider LsaSrv (206) in C:\Windows\System32\en-US\lsasrv.dll.mui
+Got 152 messages for provider LSI_SAS (207) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider LSI_SAS (207) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider LSI_SAS2i (208) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider LSI_SAS2i (208) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider LSI_SAS3i (209) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider LSI_SAS3i (209) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider LSI_SSS (210) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider LSI_SSS (210) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 47 messages for provider LSM (211) in C:\Windows\system32\en-US\lsm.dll.mui
+Got 152 messages for provider megasas (212) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider megasas (212) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider megasas2i (213) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider megasas2i (213) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider megasas35i (214) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider megasas35i (214) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider megasr (215) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider megasr (215) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 17 messages for provider Microsoft-Pef-WFP-MessageProvider (217) in C:\Windows\system32\drivers\WFPCapture.sys
+Got 17 messages for provider Microsoft-Pef-WFP-MessageProvider (217) in C:\Windows\system32\drivers\en-US\WFPCapture.sys.mui
+Got 659 messages for provider Microsoft-Windows-Audit-CVE (53) in C:\Windows\system32\en-US\Microsoft-Windows-System-Events.dll.mui
+Got 267 messages for provider Microsoft-Windows-Bits-Client (218) in C:\Windows\system32\en-US\qmgr.dll.mui
+Got 2 messages for provider Microsoft-Windows-Bluetooth-BthLEPrepairing (219) in C:\Windows\system32\en-US\bthserv.dll.mui
+Got 4 messages for provider Microsoft-Windows-CoreSystem-InitMachineConfig (220) in C:\Windows\system32\drivers\cmimcext.sys
+Got 4 messages for provider Microsoft-Windows-CoreSystem-InitMachineConfig (220) in C:\Windows\system32\drivers\en-US\cmimcext.sys.mui
+Got 2 messages for provider Microsoft-Windows-CoreSystem-NetProvision-JoinProviderOnline (221) in C:\Windows\System32\en-US\joinproviderol.dll.mui
+Got 2 messages for provider Microsoft-Windows-CoreSystem-NetProvision-JoinProviderOnline (221) in C:\Windows\SysWow64\en-US\joinproviderol.dll.mui
+Got 20 messages for provider Microsoft-Windows-CorruptedFileRecovery-Client (222) in C:\Windows\system32\en-US\cofiredm.dll.mui
+Got 20 messages for provider Microsoft-Windows-CorruptedFileRecovery-Server (223) in C:\Windows\system32\en-US\cofiredm.dll.mui
+Got 18 messages for provider Microsoft-Windows-Devices-Background (224) in C:\Windows\system32\deviceaccess.dll
+Got 18 messages for provider Microsoft-Windows-Devices-Background (224) in C:\Windows\SysWow64\deviceaccess.dll
+Got 608 messages for provider Microsoft-Windows-DfsSvc (225) in C:\Windows\system32\en-US\netevent.dll.mui
+Got 248 messages for provider Microsoft-Windows-Dhcp-Client (226) in C:\Windows\system32\en-US\dhcpcore.dll.mui
+Got 191 messages for provider Microsoft-Windows-DHCPv6-Client (227) in C:\Windows\system32\en-US\dhcpcore6.dll.mui
+Got 64 messages for provider Microsoft-Windows-Diagnostics-Networking (228) in C:\Windows\system32\en-US\netdiagfx.dll.mui
+Got 64 messages for provider Microsoft-Windows-Diagnostics-Networking (228) in C:\Windows\SysWow64\en-US\netdiagfx.dll.mui
+Got 242 messages for provider Microsoft-Windows-Directory-Services-SAM (229) in C:\Windows\System32\en-US\samsrv.dll.mui
+Got 242 messages for provider Microsoft-Windows-Directory-Services-SAM (229) in C:\Windows\SysWow64\en-US\samsrv.dll.mui
+Got 20 messages for provider Microsoft-Windows-DiskDiagnostic (230) in C:\Windows\system32\en-US\dfdts.dll.mui
+Got 56 messages for provider Microsoft-Windows-DistributedCOM (231) in C:\Windows\system32\en-US\combase.dll.mui
+Got 97 messages for provider Microsoft-Windows-DNS-Client (232) in C:\Windows\system32\en-US\dnsapi.dll.mui
+Got 81 messages for provider Microsoft-Windows-DriverFrameworks-UserMode (233) in C:\Windows\system32\WUDFPlatform.dll
+Got 81 messages for provider Microsoft-Windows-DriverFrameworks-UserMode (233) in C:\Windows\system32\en-US\WUDFPlatform.dll.mui
+Got 73 messages for provider Microsoft-Windows-EnhancedStorage-EhStorTcgDrv (234) in C:\Windows\System32\Drivers\EhStorTcgDrv.sys
+Got 73 messages for provider Microsoft-Windows-EnhancedStorage-EhStorTcgDrv (234) in C:\Windows\System32\Drivers\en-US\EhStorTcgDrv.sys.mui
+Got 9 messages for provider Microsoft-Windows-EventCollector (71) in C:\Windows\system32\en-US\wecsvc.dll.mui
+Got 9 messages for provider Microsoft-Windows-EventCollector (71) in C:\Windows\SysWow64\en-US\wecsvc.dll.mui
+Got 47 messages for provider Microsoft-Windows-Eventlog (137) in C:\Windows\System32\en-US\wevtsvc.dll.mui
+Got 1 messages for provider Microsoft-Windows-exFAT-SQM (235) in C:\Windows\system32\drivers\exfat.sys
+Got 1 messages for provider Microsoft-Windows-FailoverClustering-Client (236) in C:\Windows\system32\en-US\clusapi.dll.mui
+Got 1 messages for provider Microsoft-Windows-Fat-SQM (237) in C:\Windows\system32\drivers\fastfat.sys
+Got 6 messages for provider Microsoft-Windows-Fault-Tolerant-Heap (238) in C:\Windows\system32\en-US\fthsvc.dll.mui
+Got 10 messages for provider Microsoft-Windows-FilterManager (239) in C:\Windows\system32\drivers\fltmgr.sys
+Got 10 messages for provider Microsoft-Windows-FilterManager (239) in C:\Windows\system32\drivers\en-US\fltmgr.sys.mui
+Got 46 messages for provider Microsoft-Windows-Firewall (240) in C:\Windows\System32\en-US\mpssvc.dll.mui
+Got 34 messages for provider Microsoft-Windows-FMS (241) in C:\Windows\system32\en-US\fms.dll.mui
+Got 2 messages for provider Microsoft-Windows-FunctionDiscoveryHost (242) in C:\Windows\system32\en-US\fdphost.dll.mui
+Got 3 messages for provider Microsoft-Windows-GPIO-ClassExtension (243) in C:\Windows\system32\drivers\msgpioclx.sys
+Got 191 messages for provider Microsoft-Windows-GroupPolicy (244) in C:\Windows\system32\en-US\gpsvc.dll.mui
+Got 191 messages for provider Microsoft-Windows-GroupPolicy (244) in C:\Windows\SysWow64\en-US\gpsvc.dll.mui
+Got 13 messages for provider Microsoft-Windows-HAL (245) in C:\Windows\system32\en-US\microsoft-windows-hal-events.dll.mui
+Got 227 messages for provider Microsoft-Windows-HttpEvent (246) in C:\Windows\system32\drivers\http.sys
+Got 227 messages for provider Microsoft-Windows-HttpEvent (246) in C:\Windows\system32\drivers\en-US\http.sys.mui
+Got 68 messages for provider Microsoft-Windows-Hyper-V-Hypervisor (247) in C:\Windows\system32\drivers\hvservice.sys
+Got 68 messages for provider Microsoft-Windows-Hyper-V-Hypervisor (247) in C:\Windows\system32\drivers\en-US\hvservice.sys.mui
+Got 194 messages for provider Microsoft-Windows-Iphlpsvc (248) in C:\Windows\system32\en-US\iphlpsvc.dll.mui
+Got 7 messages for provider Microsoft-Windows-IsolatedUserMode (249) in C:\Windows\system32\iumbase.dll
+Got 659 messages for provider Microsoft-Windows-Kernel-Boot (250) in C:\Windows\system32\en-US\Microsoft-Windows-System-Events.dll.mui
+Got 659 messages for provider Microsoft-Windows-Kernel-General (251) in C:\Windows\system32\en-US\Microsoft-Windows-System-Events.dll.mui
+Got 28 messages for provider Microsoft-Windows-Kernel-Interrupt-Steering (252) in C:\Windows\system32\en-US\microsoft-windows-kernel-processor-power-events.dll.mui
+Got 659 messages for provider Microsoft-Windows-Kernel-IO (253) in C:\Windows\system32\en-US\Microsoft-Windows-System-Events.dll.mui
+Got 91 messages for provider Microsoft-Windows-Kernel-PnP (254) in C:\Windows\system32\en-US\microsoft-windows-kernel-pnp-events.dll.mui
+Got 61 messages for provider Microsoft-Windows-Kernel-Power (255) in C:\Windows\system32\en-US\microsoft-windows-kernel-power-events.dll.mui
+Got 28 messages for provider Microsoft-Windows-Kernel-Processor-Power (256) in C:\Windows\system32\en-US\microsoft-windows-kernel-processor-power-events.dll.mui
+Got 4 messages for provider Microsoft-Windows-Kernel-Tm (257) in C:\Windows\system32\ktmw32.dll
+Got 4 messages for provider Microsoft-Windows-Kernel-Tm (257) in C:\Windows\SysWow64\ktmw32.dll
+Got 22 messages for provider Microsoft-Windows-Kernel-WHEA (258) in C:\Windows\system32\PSHED.DLL
+Got 22 messages for provider Microsoft-Windows-Kernel-WHEA (258) in C:\Windows\system32\en-US\PSHED.DLL.mui
+Got 22 messages for provider Microsoft-Windows-Kernel-WHEA (258) in C:\Windows\SysWow64\PSHED.DLL
+Got 22 messages for provider Microsoft-Windows-Kernel-WHEA (258) in C:\Windows\SysWow64\en-US\PSHED.DLL.mui
+Got 120 messages for provider Microsoft-Windows-LanguagePackSetup (260) in C:\Windows\system32\en-US\lpksetup.exe.mui
+Got 3 messages for provider Microsoft-Windows-Memory-Diagnostic-Task-Handler (261) in C:\Windows\system32\en-US\MemoryDiagnostic.dll.mui
+Got 7 messages for provider Microsoft-Windows-MemoryDiagnostics-Results (262) in C:\Windows\System32\en-US\relpost.exe.mui
+Got 3 messages for provider Microsoft-Windows-MemoryDiagnostics-Schedule (263) in C:\Windows\System32\en-US\mdsched.exe.mui
+Got 1 messages for provider Microsoft-Windows-MountMgr (264) in C:\Windows\system32\drivers\mountmgr.sys
+Got 1 messages for provider Microsoft-Windows-MountMgr (264) in C:\Windows\system32\drivers\en-US\mountmgr.sys.mui
+Got 38 messages for provider Microsoft-Windows-MsLbfoSysEvtProvider (265) in C:\Windows\system32\drivers\MsLbfoProvider.sys
+Got 38 messages for provider Microsoft-Windows-MsLbfoSysEvtProvider (265) in C:\Windows\system32\drivers\en-US\MsLbfoProvider.sys.mui
+Got 173 messages for provider Microsoft-Windows-NDIS (266) in C:\Windows\system32\drivers\ndis.sys
+Got 173 messages for provider Microsoft-Windows-NDIS (266) in C:\Windows\system32\drivers\en-US\ndis.sys.mui
+Got 55 messages for provider Microsoft-Windows-NdisImPlatformSysEvtProvider (267) in C:\Windows\system32\drivers\NdisImPlatform.sys
+Got 55 messages for provider Microsoft-Windows-NdisImPlatformSysEvtProvider (267) in C:\Windows\system32\drivers\en-US\NdisImPlatform.sys.mui
+Got 55 messages for provider Microsoft-Windows-NdisImPlatformSysEvtProvider (267) in C:\Windows\SysWow64\drivers\en-US\NdisImPlatform.sys.mui
+Got 4 messages for provider Microsoft-Windows-NetworkBridge (268) in C:\Windows\system32\drivers\bridge.sys
+Got 478 messages for provider Microsoft-Windows-Ntfs (269) in C:\Windows\system32\drivers\ntfs.sys
+Got 478 messages for provider Microsoft-Windows-Ntfs (269) in C:\Windows\system32\drivers\en-US\ntfs.sys.mui
+Got 478 messages for provider Microsoft-Windows-Ntfs-UBPM (270) in C:\Windows\system32\drivers\ntfs.sys
+Got 478 messages for provider Microsoft-Windows-Ntfs-UBPM (270) in C:\Windows\system32\drivers\en-US\ntfs.sys.mui
+Got 41 messages for provider Microsoft-Windows-OfflineFiles (271) in C:\Windows\system32\en-US\cscsvc.dll.mui
+Got 21 messages for provider Microsoft-Windows-OverlayFilter (272) in C:\Windows\system32\drivers\wof.sys
+Got 21 messages for provider Microsoft-Windows-OverlayFilter (272) in C:\Windows\system32\drivers\en-US\wof.sys.mui
+Got 29 messages for provider Microsoft-Windows-PersistentMemory-Nvdimm (273) in C:\Windows\system32\drivers\nvdimm.sys
+Got 29 messages for provider Microsoft-Windows-PersistentMemory-Nvdimm (273) in C:\Windows\system32\drivers\en-US\nvdimm.sys.mui
+Got 28 messages for provider Microsoft-Windows-PersistentMemory-PmemDisk (274) in C:\Windows\system32\drivers\pmem.sys
+Got 28 messages for provider Microsoft-Windows-PersistentMemory-PmemDisk (274) in C:\Windows\system32\drivers\en-US\pmem.sys.mui
+Got 1 messages for provider Microsoft-Windows-Power-Troubleshooter (276) in C:\Windows\system32\en-US\pots.dll.mui
+Got 1 messages for provider Microsoft-Windows-Power-Troubleshooter (276) in C:\Windows\SysWow64\en-US\pots.dll.mui
+Got 41 messages for provider Microsoft-Windows-ReFS (277) in C:\Windows\system32\drivers\refs.sys
+Got 41 messages for provider Microsoft-Windows-ReFS (277) in C:\Windows\system32\drivers\en-US\refs.sys.mui
+Got 22 messages for provider Microsoft-Windows-ReFS-v1 (278) in C:\Windows\system32\drivers\refsv1.sys
+Got 22 messages for provider Microsoft-Windows-ReFS-v1 (278) in C:\Windows\system32\drivers\en-US\refsv1.sys.mui
+Got 4 messages for provider Microsoft-Windows-ResetEng (279) in C:\Windows\system32\en-US\reseteng.dll.mui
+Got 20 messages for provider Microsoft-Windows-Resource-Exhaustion-Detector (280) in C:\Windows\system32\en-US\radardt.dll.mui
+Got 20 messages for provider Microsoft-Windows-Resource-Exhaustion-Detector (280) in C:\Windows\SysWow64\en-US\radardt.dll.mui
+Got 11 messages for provider Microsoft-Windows-ResourcePublication (281) in C:\Windows\system32\en-US\fdrespub.dll.mui
+Got 3 messages for provider Microsoft-Windows-SCPNP (282) in C:\Windows\system32\en-US\certprop.dll.mui
+Got 15 messages for provider Microsoft-Windows-Serial-ClassExtension (283) in C:\Windows\system32\drivers\SerCx.sys
+Got 37 messages for provider Microsoft-Windows-Serial-ClassExtension-V2 (284) in C:\Windows\system32\drivers\SerCx2.sys
+Got 24 messages for provider Microsoft-Windows-ServerManager-ConfigureSMRemoting (285) in C:\Windows\system32\en-US\Configure-SMRemoting.exe.mui
+Got 122 messages for provider Microsoft-Windows-Servicing (286) in C:\Windows\servicing\cbsmsg.dll
+Got 122 messages for provider Microsoft-Windows-Servicing (286) in C:\Windows\servicing\en-US\cbsmsg.dll.mui
+Got 279 messages for provider Microsoft-Windows-Setup (287) in C:\Windows\system32\oobe\winsetup.dll
+Got 279 messages for provider Microsoft-Windows-Setup (287) in C:\Windows\system32\oobe\en-US\winsetup.dll.mui
+Got 33 messages for provider Microsoft-Windows-SetupPlatform (288) in C:\Windows\system32\setupetw.dll
+Got 18 messages for provider Microsoft-Windows-SPB-ClassExtension (289) in C:\Windows\system32\drivers\SpbCx.sys
+Got 84 messages for provider Microsoft-Windows-Spell-Checking (92) in C:\Windows\System32\en-US\MsSpellCheckingFacility.dll.mui
+Got 84 messages for provider Microsoft-Windows-SpellChecker (93) in C:\Windows\System32\en-US\MsSpellCheckingFacility.dll.mui
+Got 59 messages for provider Microsoft-Windows-StartupRepair (291) in C:\Windows\System32\reagent.dll
+Got 59 messages for provider Microsoft-Windows-StartupRepair (291) in C:\Windows\System32\en-US\reagent.dll.mui
+Got 59 messages for provider Microsoft-Windows-StartupRepair (291) in C:\Windows\SysWow64\reagent.dll
+Got 10 messages for provider Microsoft-Windows-Subsys-SMSS (292) in C:\Windows\system32\en-US\csrsrv.dll.mui
+Got 10 messages for provider Microsoft-Windows-Subsys-SMSS (292) in C:\Windows\SysWow64\en-US\csrsrv.dll.mui
+Got 291 messages for provider Microsoft-Windows-TaskScheduler (293) in C:\Windows\system32\en-US\schedsvc.dll.mui
+Got 291 messages for provider Microsoft-Windows-TaskScheduler (293) in C:\Windows\SysWow64\en-US\schedsvc.dll.mui
+Got 47 messages for provider Microsoft-Windows-TerminalServices-LocalSessionManager (294) in C:\Windows\system32\en-US\lsm.dll.mui
+Got 147 messages for provider Microsoft-Windows-TerminalServices-RemoteConnectionManager (295) in C:\Windows\system32\en-US\termsrv.dll.mui
+Got 33 messages for provider Microsoft-Windows-TerminalServices-SessionBroker-Client (296) in C:\Windows\system32\en-US\tssdjet.dll.mui
+Got 33 messages for provider Microsoft-Windows-TerminalServices-SessionBroker-Client (296) in C:\Windows\SysWow64\en-US\tssdjet.dll.mui
+Got 114 messages for provider Microsoft-Windows-Time-Service (297) in C:\Windows\system32\en-US\w32time.dll.mui
+Got 44 messages for provider Microsoft-Windows-TPM-WMI (298) in C:\Windows\system32\en-US\TpmCoreProvisioning.dll.mui
+Got 56 messages for provider Microsoft-Windows-USB-CCID (299) in C:\Windows\System32\Drivers\UMDF\en-US\UsbccidDriver.dll.mui
+Got 132 messages for provider Microsoft-Windows-USB-MAUSBHOST (300) in C:\Windows\system32\drivers\MAUSBHOST.sys
+Got 217 messages for provider Microsoft-Windows-USB-USBHUB3 (301) in C:\Windows\System32\drivers\usbhub3.sys
+Got 217 messages for provider Microsoft-Windows-USB-USBHUB3 (301) in C:\Windows\System32\drivers\en-US\usbhub3.sys.mui
+Got 73 messages for provider Microsoft-Windows-USB-USBXHCI (302) in C:\Windows\system32\drivers\usbxhci.sys
+Got 73 messages for provider Microsoft-Windows-USB-USBXHCI (302) in C:\Windows\system32\drivers\en-US\usbxhci.sys.mui
+Got 6 messages for provider Microsoft-Windows-UserModePowerService (303) in C:\Windows\system32\en-US\umpo.dll.mui
+Got 84 messages for provider Microsoft-Windows-UserPnp (304) in C:\Windows\system32\en-US\umpnpmgr.dll.mui
+Got 25 messages for provider Microsoft-Windows-WHEA-Logger (305) in C:\Windows\system32\en-US\whealogr.dll.mui
+Got 3 messages for provider Microsoft-Windows-WindowsToGo-StartupOptions (306) in C:\Windows\System32\en-US\pwlauncher.dll.mui
+Got 48 messages for provider Microsoft-Windows-WindowsUpdateClient (307) in C:\Windows\system32\en-US\wuaueng.dll.mui
+Got 17 messages for provider Microsoft-Windows-Wininit (308) in C:\Windows\system32\en-US\wininit.exe.mui
+Got 33 messages for provider Microsoft-Windows-Winlogon (309) in C:\Windows\system32\en-US\winlogon.exe.mui
+Got 72 messages for provider Microsoft-Windows-WMPNSS-Service (310) in C:\Program Files\Windows Media Player\en-US\wmpnetwk.exe.mui
+Got 176 messages for provider mlx4_bus (311) in C:\Windows\System32\drivers\mlx4_bus.sys
+Got 152 messages for provider mlx4_bus (311) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider mlx4_bus (311) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider mouclass (312) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider mouclass (312) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 15 messages for provider mouclass (312) in C:\Windows\System32\drivers\mouclass.sys
+Got 15 messages for provider mouclass (312) in C:\Windows\System32\drivers\en-US\mouclass.sys.mui
+Got 152 messages for provider mouhid (313) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider mouhid (313) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 3 messages for provider mouhid (313) in C:\Windows\System32\drivers\mouhid.sys
+Got 3 messages for provider mouhid (313) in C:\Windows\System32\drivers\en-US\mouhid.sys.mui
+Got 608 messages for provider mrxsmb (314) in C:\Windows\system32\en-US\netevent.dll.mui
+Got 152 messages for provider mrxsmb (314) in C:\Windows\system32\en-US\iologmsg.dll.mui
+Got 152 messages for provider mrxsmb (314) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 608 messages for provider MsBridge (315) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 152 messages for provider mshidumdf (316) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider mshidumdf (316) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 18 messages for provider mshidumdf (316) in C:\Windows\System32\Drivers\umdf\Microsoft.Bluetooth.Profiles.HidOverGatt.dll
+Got 18 messages for provider mshidumdf (316) in C:\Windows\System32\Drivers\umdf\en-US\Microsoft.Bluetooth.Profiles.HidOverGatt.dll.mui
+Got 22 messages for provider MSiSCSI (317) in C:\Windows\System32\en-US\iscsiexe.dll.mui
+Got 152 messages for provider MTConfig (318) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider MTConfig (318) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 4 messages for provider MTConfig (318) in C:\Windows\System32\drivers\MTConfig.sys
+Got 4 messages for provider MTConfig (318) in C:\Windows\System32\drivers\en-US\MTConfig.sys.mui
+Got 608 messages for provider Mup (319) in C:\Windows\system32\en-US\netevent.dll.mui
+Got 152 messages for provider Mup (319) in C:\Windows\system32\en-US\iologmsg.dll.mui
+Got 152 messages for provider Mup (319) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 152 messages for provider mvumis (320) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider mvumis (320) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 608 messages for provider NdisImPlatform (321) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 542 messages for provider NdisWan (322) in C:\Windows\System32\en-US\mprmsg.dll.mui
+Got 542 messages for provider ndiswanlegacy (323) in C:\Windows\System32\en-US\mprmsg.dll.mui
+Got 152 messages for provider NetBIOS (324) in C:\Windows\system32\en-US\iologmsg.dll.mui
+Got 152 messages for provider NetBIOS (324) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 608 messages for provider NetBT (325) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 2 messages for provider NetJoin (326) in C:\Windows\System32\en-US\netjoin.dll.mui
+Got 2 messages for provider NetJoin (326) in C:\Windows\SysWow64\en-US\netjoin.dll.mui
+Got 608 messages for provider netkvm (327) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 1458 messages for provider Netlogon (328) in C:\Windows\System32\en-US\netmsg.dll.mui
+Got 1458 messages for provider Netlogon (328) in C:\Windows\SysWow64\en-US\netmsg.dll.mui
+Got 478 messages for provider Ntfs (329) in C:\Windows\system32\drivers\ntfs.sys
+Got 478 messages for provider Ntfs (329) in C:\Windows\system32\drivers\en-US\ntfs.sys.mui
+Got 152 messages for provider nvdimm (330) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider nvdimm (330) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 29 messages for provider nvdimm (330) in C:\Windows\System32\drivers\nvdimm.sys
+Got 29 messages for provider nvdimm (330) in C:\Windows\System32\drivers\en-US\nvdimm.sys.mui
+Got 152 messages for provider nvme (331) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider nvme (331) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider nvstor (332) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider nvstor (332) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider Parport (333) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider Parport (333) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 9 messages for provider Parport (333) in C:\Windows\System32\drivers\parport.sys
+Got 9 messages for provider Parport (333) in C:\Windows\System32\drivers\en-US\parport.sys.mui
+Got 152 messages for provider partmgr (334) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider partmgr (334) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider pcmcia (335) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider pcmcia (335) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 10 messages for provider pcmcia (335) in C:\Windows\System32\Drivers\Pcmcia.sys
+Got 10 messages for provider pcmcia (335) in C:\Windows\System32\Drivers\en-US\Pcmcia.sys.mui
+Got 152 messages for provider percsas2i (336) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider percsas2i (336) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider percsas3i (337) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider percsas3i (337) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider pmem (338) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider pmem (338) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 28 messages for provider pmem (338) in C:\Windows\System32\drivers\pmem.sys
+Got 28 messages for provider pmem (338) in C:\Windows\System32\drivers\en-US\pmem.sys.mui
+Got 152 messages for provider PNPMEM (339) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider PNPMEM (339) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 1 messages for provider PNPMEM (339) in C:\Windows\System32\drivers\pnpmem.sys
+Got 1 messages for provider PNPMEM (339) in C:\Windows\System32\drivers\en-US\pnpmem.sys.mui
+Got 6 messages for provider Power (340) in C:\Windows\System32\en-US\umpo.dll.mui
+Got 608 messages for provider PptpMiniport (341) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 276 messages for provider Print (342) in C:\Windows\System32\en-US\ntprint.dll.mui
+Got 152 messages for provider Processor (343) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider Processor (343) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 62 messages for provider qebdrv (344) in C:\Windows\System32\drivers\qevbda.sys
+Got 152 messages for provider qebdrv (344) in C:\Windows\System32\en-US\iologmsg.dll.mui
+Got 152 messages for provider qebdrv (344) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 34 messages for provider qefcoe (345) in C:\Windows\System32\drivers\qefcoe.sys
+Got 152 messages for provider qefcoe (345) in C:\Windows\System32\en-US\iologmsg.dll.mui
+Got 152 messages for provider qefcoe (345) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 6 messages for provider qeois (346) in C:\Windows\System32\drivers\qeois.sys
+Got 72 messages for provider qeois (346) in C:\Windows\System32\iscsilog.dll
+Got 72 messages for provider qeois (346) in C:\Windows\System32\en-US\iscsilog.dll.mui
+Got 152 messages for provider qeois (346) in C:\Windows\System32\en-US\iologmsg.dll.mui
+Got 152 messages for provider qeois (346) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 152 messages for provider ql2300i (347) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider ql2300i (347) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider ql40xx2i (348) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider ql40xx2i (348) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider qlfcoei (349) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider qlfcoei (349) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 542 messages for provider RasAuto (350) in C:\Windows\System32\en-US\mprmsg.dll.mui
+Got 542 messages for provider RasCfg (351) in C:\Windows\System32\en-US\mprmsg.dll.mui
+Got 542 messages for provider Rasman (352) in C:\Windows\System32\en-US\mprmsg.dll.mui
+Got 27 messages for provider RasSstp (353) in C:\Windows\system32\en-US\sstpsvc.dll.mui
+Got 608 messages for provider rdbss (354) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 542 messages for provider RemoteAccess (355) in C:\Windows\System32\en-US\mprmsg.dll.mui
+Got 152 messages for provider RFCOMM (356) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider RFCOMM (356) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider rhproxy (357) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider rhproxy (357) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 608 messages for provider rspndr (358) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 242 messages for provider SAM (359) in C:\Windows\System32\en-US\samsrv.dll.mui
+Got 242 messages for provider SAM (359) in C:\Windows\SysWow64\en-US\samsrv.dll.mui
+Got 152 messages for provider sbp2port (360) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider sbp2port (360) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 165 messages for provider Schannel (361) in C:\Windows\System32\en-US\lsasrv.dll.mui
+Got 152 messages for provider scmbus (362) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider scmbus (362) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider Serial (365) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider Serial (365) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 45 messages for provider Serial (365) in C:\Windows\System32\drivers\serial.sys
+Got 45 messages for provider Serial (365) in C:\Windows\System32\drivers\en-US\serial.sys.mui
+Got 152 messages for provider sermouse (366) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider sermouse (366) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 22 messages for provider sermouse (366) in C:\Windows\System32\drivers\sermouse.sys
+Got 22 messages for provider sermouse (366) in C:\Windows\System32\drivers\en-US\sermouse.sys.mui
+Got 608 messages for provider Server (367) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 45 messages for provider Service Control Manager (368) in C:\Windows\system32\en-US\services.exe.mui
+Got 152 messages for provider SiSRaid2 (369) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider SiSRaid2 (369) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider SiSRaid4 (370) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider SiSRaid4 (370) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider SmartSAMD (371) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider SmartSAMD (371) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 92 messages for provider SMSvcHost 4.0.0.0 (372) in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\en-US\ServiceModelEvents.dll.mui
+Got 152 messages for provider spaceport (374) in C:\Windows\System32\en-US\iologmsg.dll.mui
+Got 152 messages for provider spaceport (374) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 608 messages for provider Srv (376) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 152 messages for provider stexstor (377) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider stexstor (377) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider storahci (379) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider storahci (379) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider stornvme (380) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider stornvme (380) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 608 messages for provider Tcpip (381) in C:\Windows\system32\en-US\netevent.dll.mui
+Got 608 messages for provider Tcpip6 (382) in C:\Windows\system32\en-US\netevent.dll.mui
+Got 147 messages for provider TermService (384) in C:\Windows\system32\en-US\termsrv.dll.mui
+Got 33 messages for provider TermServJet (385) in C:\Windows\System32\en-US\tssdjet.dll.mui
+Got 33 messages for provider TermServJet (385) in C:\Windows\SysWow64\en-US\tssdjet.dll.mui
+Got 16 messages for provider TPM (386) in C:\Windows\System32\drivers\tpm.sys
+Got 16 messages for provider TPM (386) in C:\Windows\System32\drivers\en-US\tpm.sys.mui
+Got 152 messages for provider UASPStor (387) in C:\Windows\System32\en-US\iologmsg.dll.mui
+Got 152 messages for provider UASPStor (387) in C:\Windows\SysWow64\en-US\iologmsg.dll.mui
+Got 152 messages for provider UEFI (388) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider UEFI (388) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 30 messages for provider UmRdpService (389) in C:\Windows\System32\en-US\umrdp.dll.mui
+Got 152 messages for provider usbehci (390) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider usbehci (390) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 5 messages for provider usbehci (390) in C:\Windows\System32\Drivers\usbehci.sys
+Got 152 messages for provider usbser (391) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider usbser (391) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 6 messages for provider User32 (392) in C:\Windows\system32\en-US\user32.dll.mui
+Got 6 messages for provider User32 (392) in C:\Windows\SysWow64\en-US\user32.dll.mui
+Got 14 messages for provider VDS Basic Provider (393) in C:\Windows\System32\en-US\vdsbas.dll.mui
+Got 45 messages for provider VDS Dynamic Provider (394) in C:\Windows\System32\en-US\vdsdyn.dll.mui
+Got 152 messages for provider vioscsi (396) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider vioscsi (396) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 25 messages for provider Virtual Disk Service (397) in C:\Windows\System32\en-US\vds.exe.mui
+Got 152 messages for provider volmgr (398) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider volmgr (398) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 121 messages for provider Volsnap (399) in C:\Windows\system32\drivers\volsnap.sys
+Got 121 messages for provider Volsnap (399) in C:\Windows\system32\drivers\en-US\volsnap.sys.mui
+Got 152 messages for provider vpci (400) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider vpci (400) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider vsmraid (401) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider vsmraid (401) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider VSTXRAID (402) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider VSTXRAID (402) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 114 messages for provider W32Time (403) in C:\Windows\SYSTEM32\en-US\w32time.DLL.mui
+Got 152 messages for provider WacomPen (404) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider WacomPen (404) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 24 messages for provider WacomPen (404) in C:\Windows\System32\drivers\wacompen.sys
+Got 24 messages for provider WacomPen (404) in C:\Windows\System32\drivers\en-US\wacompen.sys.mui
+Got 30 messages for provider WalletService (405) in C:\Windows\system32\en-US\WalletService.dll.mui
+Got 5 messages for provider wdf01000 (406) in C:\Windows\System32\drivers\Wdf01000.sys
+Got 5 messages for provider wdf01000 (406) in C:\Windows\System32\drivers\en-US\Wdf01000.sys.mui
+Got 9 messages for provider wecsvc (407) in C:\Windows\System32\en-US\wecsvc.dll.mui
+Got 9 messages for provider wecsvc (407) in C:\Windows\SysWow64\en-US\wecsvc.dll.mui
+Got 253 messages for provider Win32k (408) in C:\Windows\System32\win32kbase.sys
+Got 253 messages for provider Win32k (408) in C:\Windows\System32\en-US\win32kbase.sys.mui
+Got 168 messages for provider WinDefend (409) in C:\Program Files\Windows Defender\en-US\MpEvMsg.dll.mui
+Got 20 messages for provider Windows Disk Diagnostic (410) in C:\Windows\System32\en-US\DFDTS.dll.mui
+Got 9 messages for provider Windows Script Host (411) in C:\Windows\System32\wshext.dll
+Got 9 messages for provider Windows Script Host (411) in C:\Windows\System32\en-US\wshext.dll.mui
+Got 9 messages for provider Windows Script Host (411) in C:\Windows\SysWow64\wshext.dll
+Got 9 messages for provider Windows Script Host (411) in C:\Windows\SysWow64\en-US\wshext.dll.mui
+Got 135 messages for provider WinHttpAutoProxySvc (412) in C:\Windows\System32\en-US\winhttp.dll.mui
+Got 608 messages for provider WinNat (413) in C:\Windows\System32\en-US\netevent.dll.mui
+Got 152 messages for provider WMIxWDM (414) in C:\Windows\System32\en-US\IoLogMsg.dll.mui
+Got 152 messages for provider WMIxWDM (414) in C:\Windows\SysWow64\en-US\IoLogMsg.dll.mui
+Got 72 messages for provider WMPNetworkSvc (415) in C:\Program Files\Windows Media Player\en-US\wmpnetwk.exe.mui
+Got 1458 messages for provider Workstation (416) in C:\Windows\System32\en-US\netmsg.dll.mui
+Got 1458 messages for provider Workstation (416) in C:\Windows\SysWow64\en-US\netmsg.dll.mui
+Got 29 messages for provider PowerShell (417) in C:\Windows\system32\WindowsPowerShell\v1.0\en-US\pwrshmsg.dll.mui
+Got 29 messages for provider PowerShell (417) in C:\Windows\SysWow64\WindowsPowerShell\v1.0\en-US\pwrshmsg.dll.mui
